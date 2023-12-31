@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nandini</h1>
+<h1 align="center">Hi 👋, I'm Nandini!</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
 
-- 🔭 I’m currently working on **CityPlus**
+- 🔭 I’m currently working on my **frontend skills**
 
 - 🌱 I’m currently learning **AI/ML**
 

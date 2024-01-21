@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nandinijindal010@gmail.com**
 
-- 📄 Know about my experiences [Resume](file:///C:/Users/hp/Downloads/Nandini_Jindal.pdf)
+- 📄 Know about my experiences [Resume](https://www.overleaf.com/read/yvyjkmryvnnr#d13230)
 
 
 <h3 align="left">Connect with me:</h3>

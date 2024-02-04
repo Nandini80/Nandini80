@@ -7,7 +7,7 @@ As a web developer, I'm adept in HTML, CSS, JavaScript and React, driven by a pa
 
 - 🔭 I’m currently working on my **frontend skills**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **New TechStacks**
 
 - 💬 Ask me about anything related to  **MERN Stack** and **DSA**
 

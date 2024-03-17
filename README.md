@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend and backend developer</h3>
 
 ### Thrilled to connect with you here!
-As a web developer, I'm adept in MERN,FIREBASE and other techs, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
+As a web developer, I'm adept in MERN,Firebase and other techs, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
 
 
 - 🔭 I’m currently working on my **DSA Skills**

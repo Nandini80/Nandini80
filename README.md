@@ -7,7 +7,7 @@ As a web developer, I'm adept in MERN,Firebase and other techs, driven by a pass
 
 - 🔭 I’m currently working on my **DSA Skills**
 
-- 🌱 I’m currently learning **New TechStacks**
+- 🌱 I’m currently learning **Gen AI**
 
 - 💬 Ask me about anything related to  **MERN Stack** and **DSA**
 

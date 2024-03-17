@@ -21,7 +21,7 @@ As a web developer, I'm adept in MERN,Firebase and other techs, driven by a pass
 <a href="https://www.linkedin.com/in/nandini-jindal-33a3a7282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nandini Jindal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nandinijindal010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nandinijindal010" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nandini805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nandini805" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nandu8054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandu8054" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/NandiniJindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandu8054" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nandiniji127q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandiniji127q" height="30" width="40" /></a>
 </p>
 

@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nandini!</h1>
+<h3 align="center">A passionate FULL STACK developer</h3>
 
-## A passionate frontend and backend developer
+![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 
 Thrilled to connect with you here! As a web developer, I'm adept in MERN, Firebase, and other technologies, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
 

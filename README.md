@@ -9,7 +9,7 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN, Fireba
 - 🌱 I’m currently learning **Gen AI**
 - 💬 Ask me about anything related to **MERN Stack** and **DSA**
 - 📫 How to reach me: [nandinijindal010@gmail.com](mailto:nandinijindal010@gmail.com)
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1ftoNYtpd11UmgOzR0Dfzo9ZkvF0i0d_t/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1-6o7IQzJHY56fzAVNldLTWjLpT8ku_G6/view?usp=sharing)
 
 
 

@@ -12,7 +12,7 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN, Fireba
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1-6o7IQzJHY56fzAVNldLTWjLpT8ku_G6/view?usp=sharing)
 - 📧 Know more about me: [Portfolio](https://nandini80.github.io/Nandini.github.io/)
 
-
+  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nandini80&label=Profile%20views&color=0e75b6&style=flat" alt="Nandini80" /> </p> -->
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 

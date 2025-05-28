@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Nandini!</h1>
-<h3 align="center">A passionate FULL STACK and NextJS developer</h3>
+<h3 align="center">Geek for C++ | MERN Stack & Next.js Enthusiast | Machine Learning Aficionado | Open Source Contributor</h3>
 
 ![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 
 Thrilled to connect with you here! As a web developer, I'm adept in MERN, Firebase, Next.js and other technologies, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
 
+- 🌱 I have worked as a Full Stack Developer Intern at Superreply and CausalFunnel, contributing to real-world products.
+- 💡 I enjoy solving LeetCode (700+ problems), building web apps, and mentoring budding developers.
 - 🔭 I’m currently working on my **CP Skills**
-- 🌱 I’m currently learning **Gen AI**
-- 💬 Ask me about anything related to **MERN Stack**, **NextJS** and **DSA**
 - 📫 How to reach me: [nandinijindal010@gmail.com](mailto:nandinijindal010@gmail.com)
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1-6o7IQzJHY56fzAVNldLTWjLpT8ku_G6/view?usp=sharing)
 - 📧 Know more about me: [Portfolio](https://nandini80.github.io/Nandini.github.io/)
@@ -20,7 +20,6 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN, Fireba
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nandini-jindal-33a3a7282/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nandini Jindal" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/nandinijindal010" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nandinijindal010" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/nandini805" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nandini805" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/NandiniJindal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandu8054" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/nandiniji127q" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandiniji127q" height="30" width="40" /></a>
@@ -47,8 +46,8 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN, Fireba
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandini80&show_icons=true&locale=en&theme=dark&rank_icon=github&border_radius=10" alt="nandini80" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandini80&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=10" alt="nandini80" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandini80&show_icons=true&locale=en&theme=dark&rank_icon=github&border_radius=10" alt="nandini80"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandini80&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=10" alt="nandini80" height="195"  />
 </p>
 
 

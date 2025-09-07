@@ -43,13 +43,14 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN, Fireba
 
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
+ <!--
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandini80&show_icons=true&locale=en&theme=dark&rank_icon=github&border_radius=10" alt="nandini80"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=nandini80&show_icons=true&locale=en&theme=dark&rank_icon=github&border_radius=10" alt="nandini80"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandini80&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=10" alt="nandini80" height="195"  />
 </p>
+
 
 
 <p align="center">
@@ -57,7 +58,7 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN, Fireba
 </p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
+-->
 ## Thank you for Visiting!
 
 Feel free to explore my repositories and reach out to me for collaborations or discussions. 😊

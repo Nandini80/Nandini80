@@ -59,6 +59,7 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN, Fireba
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 -->
-## Thank you for Visiting!
+
+### Thank you for Visiting!
 
 Feel free to explore my repositories and reach out to me for collaborations or discussions. 😊

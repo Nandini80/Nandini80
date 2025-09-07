@@ -5,7 +5,7 @@
 
 Thrilled to connect with you here! As a web developer, I'm adept in MERN, Firebase, Next.js and other technologies, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
 
-- 🌱 I have worked as a Full Stack Developer Intern at Superreply and CausalFunnel, contributing to real-world products.
+- 🌱 I have worked as an SDE Intern at Probo, Superreply and CausalFunnel, contributing to real-world products.
 - 💡 I enjoy solving LeetCode (700+ problems), building web apps, and mentoring budding developers.
 - 🔭 I’m currently working on my **CP Skills**
 - 📫 How to reach me: [nandinijindal010@gmail.com](mailto:nandinijindal010@gmail.com)

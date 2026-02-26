@@ -3,11 +3,11 @@
 
 ![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 
-Thrilled to connect with you here! As a web developer, I'm adept in MERN, Firebase, Next.js and other technologies, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
+Thrilled to connect with you here! As a web developer, I'm adept in React.js, Node.js, Ruby, Next.js and other technologies, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
 
-- 🌱 I have worked as an SDE Intern at Probo, Superreply and CausalFunnel, contributing to real-world products.
-- 💡 I enjoy solving LeetCode (700+ problems), building web apps, and mentoring budding developers.
-- 🔭 I’m currently working on my **CP Skills**
+- 🌱 SDE Intern at Procol with previous experience at Probo, Superreply, and CausalFunnel, building and optimizing production-scale software systems.
+- 💡 Passionate about solving real-world problems, building scalable web applications, and mentoring aspiring developers.
+- 🔭 Currently working on my **AI Skills**
 - 📫 How to reach me: [nandinijindal010@gmail.com](mailto:nandinijindal010@gmail.com)
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1-6o7IQzJHY56fzAVNldLTWjLpT8ku_G6/view?usp=sharing)
 - 📧 Know more about me: [Portfolio](https://nandini80.github.io/Nandini.github.io/)
@@ -20,9 +20,9 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN, Fireba
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nandini-jindal-33a3a7282/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nandini Jindal" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/NandiniJindal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandu8054" height="30" width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/nandiniji127q" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandiniji127q" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/nandini805" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nandini805" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/NandiniJindal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandu8054" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/nandiniji127q" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandiniji127q" height="30" width="40" /></a>
 </p>
 
 
